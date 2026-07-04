@@ -23,13 +23,11 @@ repository               : "surajitbera-physics/surajitbera-physics.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Surajit Bera"
+  pronouns         :
+  bio              : "CNRS postdoctoral researcher in theoretical quantum many-body physics"
+  location         : "Paris, France"
+  employer         : "Collège de France / CNRS"
 
   # Academic websites
   academia         : # URL
