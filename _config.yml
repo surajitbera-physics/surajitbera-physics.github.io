@@ -22,7 +22,7 @@ repository               : "surajitbera-physics/surajitbera-physics.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "surajit_bera.jpg"
   name             : "Surajit Bera"
   pronouns         :
   bio              : "CNRS postdoctoral researcher in theoretical quantum many-body physics"
