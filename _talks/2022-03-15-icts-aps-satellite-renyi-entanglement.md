@@ -1,11 +1,11 @@
 ---
-title: "Rényi entanglement entropy in the Hubbard model within dynamical mean-field theory"
+title: "APS-satellite meeting, ICTS"
 collection: talks
 type: "Conference talk"
-permalink: /talks/2022-icts-aps-satellite-renyi-entanglement
-venue: "APS-satellite meeting, ICTS"
+permalink: /talks/2022-icts-aps-satellite
+venue: "APS-satellite meeting, International Centre for Theoretical Sciences"
 date: 2022-03-15
 location: "Bengaluru, India"
 ---
 
-Talk on Rényi entanglement entropy in the Hubbard model within dynamical mean-field theory.
+Conference talk: *Rényi entanglement entropy in the Hubbard model within dynamical mean-field theory*.
