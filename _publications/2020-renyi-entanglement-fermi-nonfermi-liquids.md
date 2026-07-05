@@ -12,4 +12,4 @@ citation: "A. Haldar, S. Bera, and S. Banerjee, &quot;Rényi entanglement entrop
 
 In this work, we develop a path-integral method to compute Rényi entanglement entropy in fermionic field theories. The method is formulated using fermionic displacement operators and is applicable to interacting many-body systems.
 
-We apply the formalism to Fermi liquids, non-Fermi liquids, Sachdev-Ye-Kitaev models, and dynamical mean-field theory. The work connects entanglement diagnostics with correlated fermionic systems and large-\(N\) many-body models.
+We apply the formalism to Fermi liquids, non-Fermi liquids, Sachdev-Ye-Kitaev models, and dynamical mean-field theory. The work connects entanglement diagnostics with correlated fermionic systems and large-N many-body models.
