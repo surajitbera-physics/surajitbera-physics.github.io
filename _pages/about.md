@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## About me
 
 I am a CNRS postdoctoral researcher at Collège de France, working in theoretical condensed matter physics, quantum information, and non-equilibrium many-body systems.
 
