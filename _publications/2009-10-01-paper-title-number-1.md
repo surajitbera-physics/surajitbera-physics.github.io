@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Non-stabilizerness of Sachdev-Ye-Kitaev model"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: publications
+permalink: /publication/non-stabilizerness-syk
+excerpt: "We study non-stabilizerness, or magic, in the Sachdev-Ye-Kitaev model."
+date: 2025-01-01
+venue: "SciPost Physics"
+paperurl: "https://scipost.org/10.21468/SciPostPhys.19.6.159"
+citation: "S. Bera and M. Schirò, &quot;Non-stabilizerness of Sachdev-Ye-Kitaev model,&quot; <i>SciPost Physics</i> <b>19</b>, 159 (2025)."
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+In this work, we study non-stabilizerness, also known as magic, in the Sachdev-Ye-Kitaev model. We analyze how quantum many-body interactions generate non-stabilizer resources and compare the behavior with simpler solvable limits.
+
+This work is part of my broader research program on quantum information diagnostics of chaotic and strongly interacting many-body systems.
