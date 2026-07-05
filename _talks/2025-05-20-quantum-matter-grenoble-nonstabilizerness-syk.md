@@ -8,4 +8,4 @@ date: 2025-05-20
 location: "Grenoble, France"
 ---
 
-Conference talk: *Non-stabilizerness of the Sachdev-Ye-Kitaev model*.
+Conference presentation: *Non-stabilizerness of the Sachdev-Ye-Kitaev model*.
