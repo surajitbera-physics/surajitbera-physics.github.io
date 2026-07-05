@@ -1,7 +1,7 @@
 ---
 title: "Quench, thermalization, and residual entropy across a non-Fermi liquid to Fermi liquid transition"
 collection: publications
-category: publications
+category: manuscripts
 permalink: /publication/quench-thermalization-residual-entropy-nfl-fl
 excerpt: "We study quench dynamics, thermalization, and residual entropy across a transition from a Sachdev-Ye-Kitaev non-Fermi liquid to a Fermi liquid."
 date: 2020-03-12
