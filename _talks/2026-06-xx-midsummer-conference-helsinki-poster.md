@@ -1,5 +1,5 @@
 ---
-title: "Midsummer Conference"
+title: "Midsummer Conference on Open Quantum Systems, Decoherence, and the Quantum-to-Classical Crossover"
 collection: talks
 type: "Poster presentation"
 permalink: /talks/2026-midsummer-conference-helsinki
