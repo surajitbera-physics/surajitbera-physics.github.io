@@ -12,7 +12,7 @@ I am a CNRS postdoctoral researcher at Collège de France, working in theoretica
 
 My research focuses on quantum chaos and entanglement in many-body systems, quantum measurements and measurement-induced phase transitions, non-Hermitian physics, and quantum resource theory. I work with several models of strongly correlated and non-equilibrium quantum matter, including fermionic Sachdev-Ye-Kitaev models, quantum p-spin glass models, Hubbard models, and Hatano-Nelson-type non-Hermitian systems.
 
-Broadly, I am interested in understanding how complex quantum systems thermalize, scramble information, generate entanglement, and respond to repeated quantum measurements, dissipation, and non-Hermitian dynamics.
+Broadly, I am interested in understanding how complex quantum systems thermalize, scramble information, generate entanglement, and respond to quantum measurements, dissipation, and non-Hermitian dynamics.
 
 ## Research interests
 
