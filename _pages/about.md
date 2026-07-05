@@ -21,8 +21,6 @@ Broadly, I am interested in understanding how complex quantum systems thermalize
 - Entanglement and non-equilibrium quantum dynamics
 - Open quantum systems and Lindblad dynamics
 - Non-Hermitian many-body physics
-- Sachdev-Ye-Kitaev models
-- Quantum p-spin glass models
 - Measurement-induced phase transitions
 - Quantum resource theory and non-stabilizerness
 
