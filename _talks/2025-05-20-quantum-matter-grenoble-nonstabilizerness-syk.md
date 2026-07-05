@@ -1,5 +1,5 @@
 ---
-title: "Quantum Matter International Conference"
+title: "Quantum Matter International Conference, Grenoble"
 collection: talks
 type: "Conference presentation"
 permalink: /talks/2025-quantum-matter-grenoble
