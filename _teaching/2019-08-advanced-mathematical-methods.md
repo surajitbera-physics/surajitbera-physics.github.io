@@ -8,6 +8,4 @@ date: 2019-08-01
 location: "Bengaluru, India"
 ---
 
-Teaching Assistant for *Advanced Mathematical Methods* at the Indian Institute of Science.
-
 Course instructor: Prof. Sumilan Banerjee.
