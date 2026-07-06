@@ -8,6 +8,4 @@ date: 2021-01-01
 location: "Bengaluru, India"
 ---
 
-Teaching Assistant for *Advanced Condensed Matter* at the Indian Institute of Science.
-
 Course instructor: Prof. Chandan Dasgupta.
