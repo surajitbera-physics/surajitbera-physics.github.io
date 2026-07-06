@@ -8,7 +8,4 @@ date: 2019-01-01
 location: "Bengaluru, India"
 ---
 
-
-Teaching Assistant for *Thermal and Statistical Physics* at the Indian Institute of Science.
-
 Course instructor: Prof. Prerna Sharma.
