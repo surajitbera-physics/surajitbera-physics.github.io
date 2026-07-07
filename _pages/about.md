@@ -14,15 +14,12 @@ My research focuses on quantum chaos and entanglement in many-body systems, quan
 
 Broadly, I am interested in understanding how complex quantum systems thermalize, scramble information, generate entanglement, and respond to quantum measurements, dissipation, and non-Hermitian dynamics.
 
-## Research interests
+## Recent news
 
-- Quantum chaos and information scrambling
-- Quantum entanglement in many-body systems
-- Non-equilibrium dynamics in closed and open quantum systems
-- Non-Hermitian many-body physics
-- Quantum measurements and measurement-induced phase transitions
-- Quantum resource theory and non-stabilizerness
+- **June 2026:** Presented a poster on *Non-reciprocal dynamics in Sachdev-Ye-Kitaev model* at the Midsummer Conference on Open Quantum Systems, Decoherence, and the Quantum-to-Classical Crossover, Helsinki.
 
-## Contact
+- **April 2026:** Our work *Generation of volume-law entanglement by local-measurement-only quantum dynamics* appeared in *Physical Review B*.
 
-Email: surajit.bera@college-de-france.fr
+- **April 2026:** Our work *Sachdev-Ye-Kitaev model in a quantum glassy landscape* appeared in *Physical Review B*.
+
+
