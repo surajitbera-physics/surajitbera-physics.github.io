@@ -25,7 +25,7 @@ Broadly, I am interested in understanding how complex quantum systems thermalize
 - **April 2026:** Our work *Generation of volume-law entanglement by local-measurement-only quantum dynamics* was published in *Physical Review B*. See the [Publications](/publications/) page for details.
 
   <figure>
-    <img src="/images/news/Figure_teaser_Yuval.png" alt="Teaser figure for measurement-only volume-law entanglement work" width="420">
+    <img src="/images/news/Figure_teaser_Yuval.png" alt="Teaser figure for measurement-only volume-law entanglement work" width="220">
   
     <figcaption>Teaser figure for the measurement-only volume-law entanglement project.</figcaption>
   </figure>
@@ -33,6 +33,6 @@ Broadly, I am interested in understanding how complex quantum systems thermalize
 - **April 2026:** Our work *Sachdev-Ye-Kitaev model in a quantum glassy landscape* was published in *Physical Review B*. See the [Publications](/publications/) page for details.
 
   <figure>
-    <img src="/images/news/Figure_SYK_glass.png" alt="Teaser figure for SYK model in a quantum glassy landscape" width="420">
+    <img src="/images/news/Figure_SYK_glass.png" alt="Teaser figure for SYK model in a quantum glassy landscape" width="220">
     <figcaption>Teaser figure for the SYK model in a quantum glassy landscape project.</figcaption>
   </figure>
