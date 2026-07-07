@@ -26,6 +26,7 @@ Broadly, I am interested in understanding how complex quantum systems thermalize
 
   <figure>
     <img src="/images/news/Figure_teaser_Yuval.png" alt="Teaser figure for measurement-only volume-law entanglement work" width="420">
+  
     <figcaption>Teaser figure for the measurement-only volume-law entanglement project.</figcaption>
   </figure>
 
