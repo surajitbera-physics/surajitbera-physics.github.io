@@ -18,8 +18,6 @@ Broadly, I am interested in understanding how complex quantum systems thermalize
 
 - **June 2026:** Presented a poster on *Non-reciprocal dynamics in Sachdev-Ye-Kitaev model* at the Midsummer Conference on Open Quantum Systems, Decoherence, and the Quantum-to-Classical Crossover, Helsinki.
 
-- **June 2026:** Presented a poster on *Non-reciprocal dynamics in Sachdev-Ye-Kitaev model* at the Midsummer Conference on Open Quantum Systems, Decoherence, and the Quantum-to-Classical Crossover, Helsinki.
-
   <figure>
     <img src="/images/news/Poster_non_reciprocal.png" alt="Midsummer Conference Helsinki 2026" width="420">
   </figure>
