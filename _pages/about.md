@@ -22,7 +22,6 @@ Broadly, I am interested in understanding how complex quantum systems thermalize
 
   <figure>
     <img src="/images/news/Poster_non_reciprocal.png" alt="Midsummer Conference Helsinki 2026" width="420">
-    <figcaption>Image credit: Poster title / Visit Finland.</figcaption>
   </figure>
   
 - **April 2026:** Our work *Generation of volume-law entanglement by local-measurement-only quantum dynamics* appeared in *Physical Review B*.
