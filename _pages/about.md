@@ -18,21 +18,12 @@ Broadly, I am interested in understanding how complex quantum systems thermalize
 
 - **June 2026:** Presented a poster on *Non-reciprocal dynamics in Sachdev-Ye-Kitaev model* at the Midsummer Conference on Open Quantum Systems, Decoherence, and the Quantum-to-Classical Crossover, Helsinki.
 
-  <figure>
-    <img src="/images/news/Poster_non_reciprocal.png" alt="Midsummer Conference Helsinki 2026" width="420">
-  </figure>
+
   
 - **April 2026:** Our work *Generation of volume-law entanglement by local-measurement-only quantum dynamics* was published in *Physical Review B*. See the [Publications](/publications/) page for details.
 
-  <figure>
-    <img src="/images/news/Figure_teaser_Yuval.png" alt="Teaser figure for measurement-only volume-law entanglement work" width="220">
   
-    <figcaption>Teaser figure for the measurement-only volume-law entanglement project.</figcaption>
-  </figure>
 
 - **April 2026:** Our work *Sachdev-Ye-Kitaev model in a quantum glassy landscape* was published in *Physical Review B*. See the [Publications](/publications/) page for details.
 
-  <figure>
-    <img src="/images/news/Figure_SYK_glass.png" alt="Teaser figure for SYK model in a quantum glassy landscape" width="220">
-    <figcaption>Teaser figure for the SYK model in a quantum glassy landscape project.</figcaption>
-  </figure>
+
